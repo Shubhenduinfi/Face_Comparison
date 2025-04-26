@@ -1,4 +1,4 @@
-# Face_Comparison
+# Face Detection
 
 This code is created on PyCharm IDE.
 In this user can provide passport image which stores in Passport using tkinter liberary.
